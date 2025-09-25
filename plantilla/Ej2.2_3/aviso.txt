@@ -1,0 +1,1 @@
+el else va a dar siempre por los otros ifs, tendras que poner algo como un ifelse o algo asi
